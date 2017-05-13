@@ -29,3 +29,7 @@ Bot Framework Emulator: https://github.com/Microsoft/BotFramework-Emulator
 
 Bot Framework Documentation: https://docs.microsoft.com/en-us/bot-framework/
 
+# LUIS Model
+You can import the LUIS model from https://luis.ai
+
+You can get the model we trained here: https://1drv.ms/u/s!AsmpFVEoNfZ8oK96V2x9_fyrhZXDPw

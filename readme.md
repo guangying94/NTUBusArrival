@@ -38,6 +38,4 @@ Thanks for supporting us for the past 5 months or so, and we had an incredible e
 
 
 ## LUIS Model
-You can import the LUIS model from https://www.luis.ai/
-
-You can get the model we trained here: https://1drv.ms/u/s!AsmpFVEoNfZ8oK96V2x9_fyrhZXDPw
+[**Natural Language Model**](https://1drv.ms/u/s!AsmpFVEoNfZ8oK96V2x9_fyrhZXDPw)

@@ -5,31 +5,39 @@ To learn how to debug Azure Bot Service bots, please visit https://aka.ms/bf-doc
 ****************************************************************************************************
 Thanks for supporting us for the past 5 months or so, and we had an incredible experience on building the chat bots for campus shuttle bus. We are going to graduate, as such we decide to open source the code for those who are interested to build bots as well.
 
-# Developer tools that we used
+## Developer tools that we used
 
-**Azure Bot Services:** https://azure.microsoft.com/en-us/services/bot-service/
+### Bot Dev Kit
 
-**Microsoft Cognitive Services (Computer Vision):** https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
+[**Azure Bot Services**](https://azure.microsoft.com/en-us/services/bot-service/)
 
-**Microsoft Cognitive Services (Emotion API):** https://azure.microsoft.com/en-us/services/cognitive-services/emotion/
+[**Bot Framework Emulator**](https://github.com/Microsoft/BotFramework-Emulator)
 
-**Microsoft Cognitive Services (Language Understanding Intelligent Service):** https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/
+[**Bot Framework Documentation**](https://docs.microsoft.com/en-us/bot-framework/)
 
-**Microsoft Cognitive Services (Text Analytics):** https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/
+### Artificial Intelligence
 
-**Documentation on Cognitive Services:** https://docs.microsoft.com/en-us/azure/cognitive-services/
+[**Microsoft Cognitive Services (Computer Vision)**](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/)
 
-**Azure Table Storage:** https://azure.microsoft.com/en-us/services/storage/
+[**Microsoft Cognitive Services (Emotion API)**](https://azure.microsoft.com/en-us/services/cognitive-services/emotion/)
 
-**Bing Map Rest Services:** https://msdn.microsoft.com/en-us/library/ff701713.aspx
+[**Microsoft Cognitive Services (Language Understanding Intelligent Service)**](https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/)
 
-**Visual Studio IDE:** https://www.visualstudio.com/
+[**Microsoft Cognitive Services (Text Analytics)**](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
 
-**Bot Framework Emulator:** https://github.com/Microsoft/BotFramework-Emulator
+[**Documentation on Cognitive Services**](https://docs.microsoft.com/en-us/azure/cognitive-services/)
 
-**Bot Framework Documentation:** https://docs.microsoft.com/en-us/bot-framework/
+### Others
 
-# LUIS Model
+[**Azure Table Storage**](https://azure.microsoft.com/en-us/services/storage/)
+
+[**Bing Map Rest Services**](https://msdn.microsoft.com/en-us/library/ff701713.aspx)
+
+[**Visual Studio IDE**](https://www.visualstudio.com/)
+
+
+
+## LUIS Model
 You can import the LUIS model from https://www.luis.ai/
 
 You can get the model we trained here: https://1drv.ms/u/s!AsmpFVEoNfZ8oK96V2x9_fyrhZXDPw
